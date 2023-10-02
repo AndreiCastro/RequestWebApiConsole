@@ -17,7 +17,7 @@ namespace RequestWebApi
             return countGoals;
         }
 
-        internal static int GetTotalScoredGoalsForTeam(string team, int year)
+        public static int GetTotalScoredGoalsForTeam(string team, int year)
         {
             DeserializeJson? jsonDeserialize = new DeserializeJson();
             jsonDeserialize = RequestApi.Resquisicao(team, year, "team1"); 
