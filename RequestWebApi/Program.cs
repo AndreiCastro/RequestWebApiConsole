@@ -1,0 +1,3 @@
+﻿using RequestWebApi;
+
+ShowScored.ShowCalculeScored();

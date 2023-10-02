@@ -1,0 +1,17 @@
+C:\Users\andrei\source\repos\MyProjects\RequestWebApiConsole\RequestWebApi\bin\Debug\net7.0\RequestWebApi.exe
+C:\Users\andrei\source\repos\MyProjects\RequestWebApiConsole\RequestWebApi\bin\Debug\net7.0\RequestWebApi.deps.json
+C:\Users\andrei\source\repos\MyProjects\RequestWebApiConsole\RequestWebApi\bin\Debug\net7.0\RequestWebApi.runtimeconfig.json
+C:\Users\andrei\source\repos\MyProjects\RequestWebApiConsole\RequestWebApi\bin\Debug\net7.0\RequestWebApi.dll
+C:\Users\andrei\source\repos\MyProjects\RequestWebApiConsole\RequestWebApi\bin\Debug\net7.0\RequestWebApi.pdb
+C:\Users\andrei\source\repos\MyProjects\RequestWebApiConsole\RequestWebApi\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\andrei\source\repos\MyProjects\RequestWebApiConsole\RequestWebApi\obj\Debug\net7.0\RequestWebApi.csproj.AssemblyReference.cache
+C:\Users\andrei\source\repos\MyProjects\RequestWebApiConsole\RequestWebApi\obj\Debug\net7.0\RequestWebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andrei\source\repos\MyProjects\RequestWebApiConsole\RequestWebApi\obj\Debug\net7.0\RequestWebApi.AssemblyInfoInputs.cache
+C:\Users\andrei\source\repos\MyProjects\RequestWebApiConsole\RequestWebApi\obj\Debug\net7.0\RequestWebApi.AssemblyInfo.cs
+C:\Users\andrei\source\repos\MyProjects\RequestWebApiConsole\RequestWebApi\obj\Debug\net7.0\RequestWebApi.csproj.CoreCompileInputs.cache
+C:\Users\andrei\source\repos\MyProjects\RequestWebApiConsole\RequestWebApi\obj\Debug\net7.0\RequestWebApi.csproj.CopyComplete
+C:\Users\andrei\source\repos\MyProjects\RequestWebApiConsole\RequestWebApi\obj\Debug\net7.0\RequestWebApi.dll
+C:\Users\andrei\source\repos\MyProjects\RequestWebApiConsole\RequestWebApi\obj\Debug\net7.0\refint\RequestWebApi.dll
+C:\Users\andrei\source\repos\MyProjects\RequestWebApiConsole\RequestWebApi\obj\Debug\net7.0\RequestWebApi.pdb
+C:\Users\andrei\source\repos\MyProjects\RequestWebApiConsole\RequestWebApi\obj\Debug\net7.0\RequestWebApi.genruntimeconfig.cache
+C:\Users\andrei\source\repos\MyProjects\RequestWebApiConsole\RequestWebApi\obj\Debug\net7.0\ref\RequestWebApi.dll

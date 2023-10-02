@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "o6S+pJ+d3pZvBPlO2f57AlOqSqu+9E46diAp29nXMmwNETDmpgvPNGxtvXeyPQiiXWNus4QD3gSwGsjKLzuJyA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\andrei\\source\\repos\\MyProjects\\RequestWebApiConsole\\RequestWebApi\\RequestWebApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\andrei\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
