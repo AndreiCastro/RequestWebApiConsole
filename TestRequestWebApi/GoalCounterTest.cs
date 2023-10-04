@@ -1,9 +1,10 @@
+using NUnit.Framework;
 using RequestWebApi;
 
 namespace TestRequestWebApi
 {
     [TestFixture]
-    public class Tests
+    public class GoalCounterTest
     {
         [Test]
         [Category("Paris Saint-Germain")]
